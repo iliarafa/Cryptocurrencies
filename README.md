@@ -6,7 +6,7 @@ The purpose of this project is to create a report that displays cryptocurrencies
 ### Method
 1 . Preprocessing the data for principal component analysis.<br>
 2 . Reduce data dimensions using principal componenet analysis.<br>
-3 . Cluster the cryptocurrencies using K-means, and finally.<br>
+3 . Cluster the cryptocurrencies using K-means.<br>
 4 . Visualize the results. 
 
 ### Summary
